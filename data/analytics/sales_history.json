@@ -1,0 +1,16 @@
+{
+  "user_id": "primary_user",
+  "metrics": {
+    "total_calls": 0,
+    "accepted_leads": 0,
+    "rejected_leads": 0,
+    "follow_ups": 0,
+    "meetings": 0,
+    "proposals": 0,
+    "conversions": 0,
+    "lost_leads": 0,
+    "conversion_signal_counts": {}
+  },
+  "loss_reasons": [],
+  "updated_at": "2026-09-25T17:33:50.924797+00:00"
+}
