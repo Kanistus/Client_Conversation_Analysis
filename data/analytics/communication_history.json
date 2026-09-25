@@ -1,0 +1,11 @@
+{
+  "user_id": "primary_user",
+  "metrics": {
+    "total_calls": 0,
+    "average_client_talk_ratio": 0.0,
+    "common_weaknesses": [],
+    "common_strengths": [],
+    "improvement_trends": []
+  },
+  "updated_at": "2026-09-25T17:33:49.459473+00:00"
+}
