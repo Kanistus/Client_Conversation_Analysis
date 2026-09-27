@@ -83,9 +83,9 @@
   ],
   "lead_score": 76,
   "lead_score_reasoning": "industry_fit=20, company_size_fit=5, location_fit=10, operational_fit=20, pain_point_evidence=12, decision_maker_access=0, data_confidence=9.",
-  "status": "researched",
+  "status": "accepted",
   "created_at": "2026-09-27T10:38:46.604849+00:00",
-  "updated_at": "2026-09-27T10:46:10.339126+00:00",
+  "updated_at": "2026-09-27T13:37:50.081432+00:00",
   "research_history": [
     {
       "researched_at": "2026-09-27T10:46:05.692705+00:00",
