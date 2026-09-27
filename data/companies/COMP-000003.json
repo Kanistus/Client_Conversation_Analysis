@@ -1,0 +1,102 @@
+{
+  "company_id": "COMP-000003",
+  "company_name": "Roots Industries India Limited",
+  "legal_name": "",
+  "industry": "Manufacturing",
+  "sub_industry": "Auto Components & Industrial Equipment",
+  "company_type": "MSME",
+  "company_size": "1000-5000 employees",
+  "size_confidence": "high",
+  "location": {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "country": "India"
+  },
+  "website": "https://www.roots.co.in",
+  "linkedin_url": "https://www.linkedin.com/company/roots-industries-india-limited",
+  "products_services": [
+    "Automotive Electric Horns and Air Horns",
+    "Industrial Cleaning Equipment and Sweepers",
+    "Electric Vehicles and Golf Carts",
+    "High Precision Aluminium Die Castings",
+    "Friction Products and Brake Linings"
+  ],
+  "business_model": "B2B manufacturing and OEM supplier of automotive horns, industrial cleaning machines, electric vehicles, and precision die-cast components.",
+  "manufacturing_operations": "Operates manufacturing plants in Coimbatore, Tamil Nadu, with capabilities in acoustic manufacturing, aluminium high-pressure die casting, CNC machining, and automated assembly.",
+  "supply_chain_operations": "Supplies automotive OEMs globally and distributes aftermarket products across India and international markets.",
+  "warehouse_operations": "Utilizes centralized and regional warehousing facilities for finished goods and aftermarket replacement parts.",
+  "procurement_operations": "Procures raw materials including copper, aluminium alloys, engineering plastics, and electronic sub-components.",
+  "logistics_operations": "Coordinates domestic freight and international shipping networks for distribution across multiple continents.",
+  "estimated_employee_count": null,
+  "financial_information": {
+    "revenue": null,
+    "profit": null,
+    "financial_year": null,
+    "source": ""
+  },
+  "operational_signals": [
+    "Multi-division operations spanning automotive components, cleaning technology, and precision engineering",
+    "Global export network reaching over 80 countries"
+  ],
+  "potential_problems": [
+    "Hypothesis: Managing complex raw material volatility (copper, aluminium) across distinct business divisions may impact margin stability."
+  ],
+  "potential_process_improvement_opportunities": [
+    "Hypothesis: Unifying procurement and supply chain planning via automated demand forecasting could optimize inventory management across distinct product lines."
+  ],
+  "technology_signals": [
+    "Employs high-pressure die casting machines, precision CNC turning/machining centres, and specialized acoustic testing facilities"
+  ],
+  "competitors": [
+    "Uno Minda Limited",
+    "Minda Corporation Limited",
+    "Hella India Automotive Private Limited",
+    "Bosch Limited"
+  ],
+  "decision_makers": [],
+  "sources": [
+    {
+      "claim": "Headquartered in Coimbatore, Tamil Nadu, producing automotive horns and engineered components.",
+      "source_url": "https://www.roots.co.in",
+      "source_type": "official website",
+      "retrieved_at": "2025-03-29",
+      "confidence": "high"
+    },
+    {
+      "claim": "Roots Industries India Limited manufactures automotive horns, industrial cleaning equipment, and precision components in Coimbatore, India.",
+      "source_url": "https://www.roots.co.in",
+      "source_type": "official website",
+      "retrieved_at": "2025-02-16",
+      "confidence": "high"
+    },
+    {
+      "claim": "Roots Industries India Limited maintains an active corporate presence on LinkedIn.",
+      "source_url": "https://www.linkedin.com/company/roots-industries-india-limited",
+      "source_type": "company LinkedIn",
+      "retrieved_at": "2025-02-16",
+      "confidence": "high"
+    }
+  ],
+  "lead_score": 77,
+  "lead_score_reasoning": "industry_fit=20, company_size_fit=15, location_fit=7, operational_fit=20, pain_point_evidence=6, decision_maker_access=0, data_confidence=9.",
+  "status": "researched",
+  "created_at": "2026-09-27T10:38:46.604827+00:00",
+  "updated_at": "2026-09-27T10:44:07.202883+00:00",
+  "research_history": [
+    {
+      "researched_at": "2026-09-27T10:44:05.399554+00:00",
+      "new_opportunities": [
+        "Hypothesis: Unifying procurement and supply chain planning via automated demand forecasting could optimize inventory management across distinct product lines."
+      ],
+      "new_problems": [
+        "Hypothesis: Managing complex raw material volatility (copper, aluminium) across distinct business divisions may impact margin stability."
+      ],
+      "source_count": 2
+    }
+  ],
+  "outreach_history": [],
+  "call_history": [],
+  "notes": [
+    "Roots Industries is a Tamil Nadu manufacturer producing electric horns, die-cast precision components, and industrial cleaning machines."
+  ]
+}
