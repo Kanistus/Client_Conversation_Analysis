@@ -1,0 +1,58 @@
+{
+  "company_id": "COMP-000014",
+  "company_name": "Yuken India Limited",
+  "legal_name": "",
+  "industry": "Industrial Manufacturing",
+  "sub_industry": "Hydraulic Equipment and Pumps",
+  "company_type": "Medium-sized",
+  "company_size": "",
+  "size_confidence": "high",
+  "location": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  "website": "https://www.yukenindia.com/",
+  "linkedin_url": "https://www.linkedin.com/company/yuken-india-limited/",
+  "products_services": [],
+  "business_model": "",
+  "manufacturing_operations": "",
+  "supply_chain_operations": "",
+  "warehouse_operations": "",
+  "procurement_operations": "",
+  "logistics_operations": "",
+  "estimated_employee_count": null,
+  "financial_information": {
+    "revenue": null,
+    "profit": null,
+    "financial_year": null,
+    "source": ""
+  },
+  "operational_signals": [],
+  "potential_problems": [],
+  "potential_process_improvement_opportunities": [],
+  "technology_signals": [],
+  "competitors": [],
+  "decision_makers": [],
+  "sources": [
+    {
+      "claim": "Yuken India manufactures hydraulic systems and components with primary operations in Bengaluru.",
+      "source_url": "https://www.yukenindia.com/",
+      "source_type": "official website",
+      "retrieved_at": "2026-03-29",
+      "confidence": "high"
+    }
+  ],
+  "lead_score": 38,
+  "lead_score_reasoning": "industry_fit=20, company_size_fit=5, location_fit=10, operational_fit=0, pain_point_evidence=0, decision_maker_access=0, data_confidence=3.",
+  "status": "new",
+  "created_at": "2026-09-27T15:24:10.691959+00:00",
+  "updated_at": "2026-09-27T15:25:32.481951+00:00",
+  "research_history": [],
+  "outreach_history": [],
+  "call_history": [],
+  "notes": [
+    "Bengaluru-headquartered manufacturer of hydraulic pumps, valves, and power units for industrial machinery and automation applications.",
+    "Research failed; saved discovery data only."
+  ]
+}
