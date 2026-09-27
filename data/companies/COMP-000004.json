@@ -1,0 +1,58 @@
+{
+  "company_id": "COMP-000004",
+  "company_name": "Gears and Gear Drives (India) Pvt. Ltd.",
+  "legal_name": "",
+  "industry": "Manufacturing",
+  "sub_industry": "Machinery & Power Transmission Equipment",
+  "company_type": "MSME",
+  "company_size": "",
+  "size_confidence": "medium",
+  "location": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  "website": "https://www.gearsandgeardrives.com",
+  "linkedin_url": "https://www.linkedin.com/company/gears-and-gear-drives-india-pvt-ltd",
+  "products_services": [],
+  "business_model": "",
+  "manufacturing_operations": "",
+  "supply_chain_operations": "",
+  "warehouse_operations": "",
+  "procurement_operations": "",
+  "logistics_operations": "",
+  "estimated_employee_count": null,
+  "financial_information": {
+    "revenue": null,
+    "profit": null,
+    "financial_year": null,
+    "source": ""
+  },
+  "operational_signals": [],
+  "potential_problems": [],
+  "potential_process_improvement_opportunities": [],
+  "technology_signals": [],
+  "competitors": [],
+  "decision_makers": [],
+  "sources": [
+    {
+      "claim": "Manufacturing unit located in Bengaluru focused on industrial power transmission systems.",
+      "source_url": "https://www.gearsandgeardrives.com",
+      "source_type": "official website",
+      "retrieved_at": "2025-03-29",
+      "confidence": "high"
+    }
+  ],
+  "lead_score": 48,
+  "lead_score_reasoning": "industry_fit=20, company_size_fit=15, location_fit=10, operational_fit=0, pain_point_evidence=0, decision_maker_access=0, data_confidence=3.",
+  "status": "new",
+  "created_at": "2026-09-27T10:38:46.604839+00:00",
+  "updated_at": "2026-09-27T10:45:06.451717+00:00",
+  "research_history": [],
+  "outreach_history": [],
+  "call_history": [],
+  "notes": [
+    "Gears and Gear Drives (India) is a Bengaluru engineering MSME designing and manufacturing custom gearboxes, electromechanical actuators, and power transmission products.",
+    "Research failed; saved discovery data only."
+  ]
+}
