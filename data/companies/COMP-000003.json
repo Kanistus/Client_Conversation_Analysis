@@ -4,8 +4,8 @@
   "legal_name": "",
   "industry": "Manufacturing",
   "sub_industry": "Auto Components & Industrial Equipment",
-  "company_type": "MSME",
-  "company_size": "1000-5000 employees",
+  "company_type": "Unlisted Public Company",
+  "company_size": "Medium-to-Large",
   "size_confidence": "high",
   "location": {
     "city": "Coimbatore",
@@ -19,41 +19,103 @@
     "Industrial Cleaning Equipment and Sweepers",
     "Electric Vehicles and Golf Carts",
     "High Precision Aluminium Die Castings",
-    "Friction Products and Brake Linings"
+    "Friction Products and Brake Linings",
+    "Electric Horns",
+    "Air Horns",
+    "Electronic Horns",
+    "Backup Alarms",
+    "Halogen Bulbs",
+    "Disc Brake Pads",
+    "Alternators",
+    "Starters"
   ],
-  "business_model": "B2B manufacturing and OEM supplier of automotive horns, industrial cleaning machines, electric vehicles, and precision die-cast components.",
-  "manufacturing_operations": "Operates manufacturing plants in Coimbatore, Tamil Nadu, with capabilities in acoustic manufacturing, aluminium high-pressure die casting, CNC machining, and automated assembly.",
-  "supply_chain_operations": "Supplies automotive OEMs globally and distributes aftermarket products across India and international markets.",
-  "warehouse_operations": "Utilizes centralized and regional warehousing facilities for finished goods and aftermarket replacement parts.",
-  "procurement_operations": "Procures raw materials including copper, aluminium alloys, engineering plastics, and electronic sub-components.",
-  "logistics_operations": "Coordinates domestic freight and international shipping networks for distribution across multiple continents.",
+  "business_model": "B2B manufacturing and supply of automotive horns, electronic components, and accessories to OEMs and aftermarket globally.",
+  "manufacturing_operations": "Operates state-of-the-art manufacturing facilities in Coimbatore, Tamil Nadu, featuring fully automated assembly lines, press shops, plastic injection molding, and tool design capabilities.",
+  "supply_chain_operations": "Manages global supply chain supplying to major automotive OEMs in India, North America, Europe, and Asia, alongside a vast aftermarket distributor network.",
+  "warehouse_operations": "Maintains centralized warehousing at manufacturing sites in Coimbatore and regional distribution hubs to support aftermarket supply.",
+  "procurement_operations": "Procures raw materials including copper, steel, engineering plastics, and electronic components from domestic and international suppliers.",
+  "logistics_operations": "Utilizes multi-modal logistics for domestic OEM delivery and global export shipping to over 30 countries.",
   "estimated_employee_count": null,
   "financial_information": {
-    "revenue": null,
-    "profit": null,
-    "financial_year": null,
-    "source": ""
+    "revenue": "INR 404.1 crore",
+    "profit": "INR 21.1 crore (PAT)",
+    "financial_year": "2021-2022",
+    "source": "ICRA Credit Rating Report (March 2023)"
   },
   "operational_signals": [
     "Multi-division operations spanning automotive components, cleaning technology, and precision engineering",
-    "Global export network reaching over 80 countries"
+    "Global export network reaching over 80 countries",
+    "Expanding product portfolio into EV-compatible electronic horns and acoustic signaling devices.",
+    "Strong focus on export markets with certifications like IATF 16494, ISO 9001, and ISO 14001."
   ],
   "potential_problems": [
-    "Hypothesis: Managing complex raw material volatility (copper, aluminium) across distinct business divisions may impact margin stability."
+    "Hypothesis: Managing complex raw material volatility (copper, aluminium) across distinct business divisions may impact margin stability.",
+    "Potential vulnerability to raw material price volatility (copper, steel, plastics) impacting operating margins.",
+    "Dependence on the automotive industry cycle and transition speed to electric vehicles which may alter acoustic warning requirements."
   ],
   "potential_process_improvement_opportunities": [
-    "Hypothesis: Unifying procurement and supply chain planning via automated demand forecasting could optimize inventory management across distinct product lines."
+    "Hypothesis: Unifying procurement and supply chain planning via automated demand forecasting could optimize inventory management across distinct product lines.",
+    "Opportunity to implement advanced IoT-enabled predictive maintenance in manufacturing assembly lines to reduce downtime.",
+    "Opportunity to optimize supply chain visibility using real-time tracking systems for international OEM shipments."
   ],
   "technology_signals": [
-    "Employs high-pressure die casting machines, precision CNC turning/machining centres, and specialized acoustic testing facilities"
+    "Employs high-pressure die casting machines, precision CNC turning/machining centres, and specialized acoustic testing facilities",
+    "Uses CAD/CAM software for tool design and development.",
+    "Employs automated testing and quality control systems on assembly lines."
   ],
   "competitors": [
     "Uno Minda Limited",
     "Minda Corporation Limited",
     "Hella India Automotive Private Limited",
-    "Bosch Limited"
+    "Bosch Limited",
+    "Hella India Lighting Limited",
+    "Denso Corporation",
+    "Robert Bosch GmbH"
   ],
-  "decision_makers": [],
+  "decision_makers": [
+    {
+      "contact_id": "k_ramasamy",
+      "name": "K. Ramasamy",
+      "designation": "Chairman & Founder",
+      "company": "Roots Industries India Limited",
+      "company_id": "COMP-000003",
+      "linkedin_url": null,
+      "email": null,
+      "phone": null,
+      "source": "https://www.roots.co.in",
+      "confidence": "high",
+      "created_at": "2026-09-27T10:56:25.462730+00:00",
+      "updated_at": "2026-09-27T10:56:26.666123+00:00"
+    },
+    {
+      "contact_id": "k_saravanasundaram",
+      "name": "K. Saravanasundaram",
+      "designation": "Deputy Managing Director",
+      "company": "Roots Industries India Limited",
+      "company_id": "COMP-000003",
+      "linkedin_url": null,
+      "email": null,
+      "phone": null,
+      "source": "https://www.roots.co.in",
+      "confidence": "high",
+      "created_at": "2026-09-27T10:56:25.462768+00:00",
+      "updated_at": "2026-09-27T10:56:28.428603+00:00"
+    },
+    {
+      "contact_id": "kavitha_varadaraj",
+      "name": "Dr. Kavitha Varadaraj",
+      "designation": "Joint Managing Director",
+      "company": "Roots Industries India Limited",
+      "company_id": "COMP-000003",
+      "linkedin_url": null,
+      "email": null,
+      "phone": null,
+      "source": "https://www.roots.co.in",
+      "confidence": "high",
+      "created_at": "2026-09-27T10:56:25.462783+00:00",
+      "updated_at": "2026-09-27T10:56:29.845515+00:00"
+    }
+  ],
   "sources": [
     {
       "claim": "Headquartered in Coimbatore, Tamil Nadu, producing automotive horns and engineered components.",
@@ -75,13 +137,34 @@
       "source_type": "company LinkedIn",
       "retrieved_at": "2025-02-16",
       "confidence": "high"
+    },
+    {
+      "claim": "Roots Industries India Limited is a leading manufacturer of automotive horns and electronic components based in Coimbatore.",
+      "source_url": "https://www.roots.co.in",
+      "source_type": "official website",
+      "retrieved_at": "2023-10-27",
+      "confidence": "high"
+    },
+    {
+      "claim": "In FY2022, RIL reported a PAT of INR 21.1 crore on an operating income of INR 404.1 crore.",
+      "source_url": "https://www.icra.in",
+      "source_type": "public filing",
+      "retrieved_at": "2023-10-27",
+      "confidence": "high"
+    },
+    {
+      "claim": "Roots Industries India Limited LinkedIn profile and employee range.",
+      "source_url": "https://www.linkedin.com/company/roots-industries-india-limited",
+      "source_type": "company LinkedIn",
+      "retrieved_at": "2023-10-27",
+      "confidence": "high"
     }
   ],
-  "lead_score": 77,
-  "lead_score_reasoning": "industry_fit=20, company_size_fit=15, location_fit=7, operational_fit=20, pain_point_evidence=6, decision_maker_access=0, data_confidence=9.",
-  "status": "researched",
+  "lead_score": 87,
+  "lead_score_reasoning": "industry_fit=20, company_size_fit=15, location_fit=7, operational_fit=20, pain_point_evidence=15, decision_maker_access=0, data_confidence=10.",
+  "status": "accepted",
   "created_at": "2026-09-27T10:38:46.604827+00:00",
-  "updated_at": "2026-09-27T10:44:07.202883+00:00",
+  "updated_at": "2026-09-27T10:57:20.850974+00:00",
   "research_history": [
     {
       "researched_at": "2026-09-27T10:44:05.399554+00:00",
@@ -92,9 +175,26 @@
         "Hypothesis: Managing complex raw material volatility (copper, aluminium) across distinct business divisions may impact margin stability."
       ],
       "source_count": 2
+    },
+    {
+      "researched_at": "2026-09-27T10:56:03.487274+00:00",
+      "new_opportunities": [
+        "Opportunity to implement advanced IoT-enabled predictive maintenance in manufacturing assembly lines to reduce downtime.",
+        "Opportunity to optimize supply chain visibility using real-time tracking systems for international OEM shipments."
+      ],
+      "new_problems": [
+        "Potential vulnerability to raw material price volatility (copper, steel, plastics) impacting operating margins.",
+        "Dependence on the automotive industry cycle and transition speed to electric vehicles which may alter acoustic warning requirements."
+      ],
+      "source_count": 3
     }
   ],
-  "outreach_history": [],
+  "outreach_history": [
+    {
+      "script_id": "SCRIPT-000001",
+      "created_at": "2026-09-27T10:57:17.874577+00:00"
+    }
+  ],
   "call_history": [],
   "notes": [
     "Roots Industries is a Tamil Nadu manufacturer producing electric horns, die-cast precision components, and industrial cleaning machines."
