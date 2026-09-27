@@ -1,0 +1,108 @@
+{
+  "company_id": "COMP-000002",
+  "company_name": "Rapsri Engineering Products Limited",
+  "legal_name": "",
+  "industry": "Manufacturing",
+  "sub_industry": "Non-Ferrous Castings & Machined Components",
+  "company_type": "MSME",
+  "company_size": "MSME",
+  "size_confidence": "medium",
+  "location": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  "website": "https://www.rapsri.com",
+  "linkedin_url": "https://www.linkedin.com/company/rapsri-engineering-products-ltd",
+  "products_services": [
+    "Copper-alloy castings",
+    "Continuous cast bronze bars and tubes",
+    "Centrifugal castings",
+    "Sand castings",
+    "Gravity die castings",
+    "Precision CNC machined non-ferrous components"
+  ],
+  "business_model": "B2B manufacturing and export of specialized non-ferrous copper alloy castings and precision machined components.",
+  "manufacturing_operations": "Operates integrated foundry and precision machining facilities in Bengaluru, Karnataka, with metallurgical capabilities covering continuous casting, centrifugal casting, sand casting, and CNC finishing.",
+  "supply_chain_operations": "Procures base non-ferrous metals and ingots (copper, tin, zinc, bronze) and distributes finished components to domestic and international OEM clients.",
+  "warehouse_operations": "Stores raw metal ingots, foundry inputs, semi-finished continuous cast stock, and finished precision components at manufacturing location.",
+  "procurement_operations": "Sources non-ferrous virgin metals, recycled alloy scrap, sand mold materials, and tooling equipment.",
+  "logistics_operations": "Handles domestic distribution and international freight export of heavy non-ferrous engineered components.",
+  "estimated_employee_count": null,
+  "financial_information": {
+    "revenue": null,
+    "profit": null,
+    "financial_year": null,
+    "source": ""
+  },
+  "operational_signals": [
+    "Specialized focus on non-ferrous metallurgical processes and precision machining.",
+    "Export-oriented manufacturing targeting global industrial OEMs."
+  ],
+  "potential_problems": [
+    "Fluctuations in global copper and tin commodity prices may introduce raw material cost variability.",
+    "Managing defect rates across multiple distinct casting processes (continuous, centrifugal, sand) requires strict process parameters."
+  ],
+  "potential_process_improvement_opportunities": [
+    "Potential opportunity to implement digital melt-loss and scrap tracking to increase overall yield in non-ferrous foundry operations.",
+    "Potential opportunity to integrate automated inline dimensional and metallurgical quality checks during CNC machining to reduce scrap rate."
+  ],
+  "technology_signals": [
+    "CNC machine tools",
+    "Spectrometer alloy testing equipment",
+    "Continuous casting equipment"
+  ],
+  "competitors": [
+    "Bengaluru Non-Ferrous Foundry",
+    "Luwa India",
+    "PNC Castings"
+  ],
+  "decision_makers": [],
+  "sources": [
+    {
+      "claim": "Rapsri maintains foundry and precision machining facilities in Bengaluru.",
+      "source_url": "https://www.rapsri.com",
+      "source_type": "official website",
+      "retrieved_at": "2025-03-29",
+      "confidence": "high"
+    },
+    {
+      "claim": "Rapsri Engineering Products Limited operates non-ferrous foundry and precision machining operations in Bengaluru.",
+      "source_url": "https://www.rapsri.com",
+      "source_type": "official website",
+      "retrieved_at": "2025-03-29",
+      "confidence": "high"
+    },
+    {
+      "claim": "Rapsri maintains an official company profile detailing its operations in non-ferrous components.",
+      "source_url": "https://www.linkedin.com/company/rapsri-engineering-products-ltd",
+      "source_type": "company LinkedIn",
+      "retrieved_at": "2025-03-29",
+      "confidence": "high"
+    }
+  ],
+  "lead_score": 86,
+  "lead_score_reasoning": "industry_fit=20, company_size_fit=15, location_fit=10, operational_fit=20, pain_point_evidence=12, decision_maker_access=0, data_confidence=9.",
+  "status": "researched",
+  "created_at": "2026-09-27T10:38:46.604815+00:00",
+  "updated_at": "2026-09-27T10:43:16.878645+00:00",
+  "research_history": [
+    {
+      "researched_at": "2026-09-27T10:43:15.408919+00:00",
+      "new_opportunities": [
+        "Potential opportunity to implement digital melt-loss and scrap tracking to increase overall yield in non-ferrous foundry operations.",
+        "Potential opportunity to integrate automated inline dimensional and metallurgical quality checks during CNC machining to reduce scrap rate."
+      ],
+      "new_problems": [
+        "Fluctuations in global copper and tin commodity prices may introduce raw material cost variability.",
+        "Managing defect rates across multiple distinct casting processes (continuous, centrifugal, sand) requires strict process parameters."
+      ],
+      "source_count": 2
+    }
+  ],
+  "outreach_history": [],
+  "call_history": [],
+  "notes": [
+    "Rapsri Engineering is a Bengaluru-based MSME producing specialized copper alloy sand and continuous castings for electrical, automotive, and engineering industries."
+  ]
+}
