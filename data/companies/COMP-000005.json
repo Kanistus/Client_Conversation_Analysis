@@ -1,0 +1,108 @@
+{
+  "company_id": "COMP-000005",
+  "company_name": "Avalon Technologies Limited",
+  "legal_name": "",
+  "industry": "Electronics Manufacturing",
+  "sub_industry": "Electronics Manufacturing Services (EMS)",
+  "company_type": "Public",
+  "company_size": "Large",
+  "size_confidence": "high",
+  "location": {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "country": "India"
+  },
+  "website": "https://www.avalontechnologies.com",
+  "linkedin_url": "https://www.linkedin.com/company/avalon-technologies-pvt-ltd",
+  "products_services": [
+    "Printed Circuit Board Assembly (PCBA)",
+    "Cable Assemblies & Wire Harnesses",
+    "Sheet Metal Fabrication",
+    "Machining",
+    "Magnetics",
+    "Plastics",
+    "Box Build & System Integration"
+  ],
+  "business_model": "B2B Electronics Manufacturing Services (EMS)",
+  "manufacturing_operations": "Operates multiple manufacturing facilities in India (Chennai, Kanchipuram) and the United States (Atlanta, Fremont) offering end-to-end EMS capabilities.",
+  "supply_chain_operations": "Global sourcing of electronic components, managing lead times, inventory holding, and logistics across US and India.",
+  "warehouse_operations": "Warehousing facilities integrated with manufacturing plants in India and US to support JIT (Just-In-Time) delivery.",
+  "procurement_operations": "Sourcing of semiconductor chips, PCBs, connectors, and raw metals from global distributors and manufacturers.",
+  "logistics_operations": "Multi-modal international logistics (air and sea freight) to support cross-border trade between US and India facilities.",
+  "estimated_employee_count": 2000,
+  "financial_information": {
+    "revenue": "INR 8,218.8 million",
+    "profit": "INR 274.3 million",
+    "financial_year": "FY24",
+    "source": "https://www.avalontechnologies.com/investors/"
+  },
+  "operational_signals": [
+    "Expansion of Chennai facility to increase production capacity.",
+    "Focus on high-growth sectors like clean energy, aerospace, and defense."
+  ],
+  "potential_problems": [
+    "Potential margin pressure due to rising raw material costs and global semiconductor supply chain volatility.",
+    "High working capital cycle due to inventory holding requirements for long-lead-time electronic components."
+  ],
+  "potential_process_improvement_opportunities": [
+    "Implementation of advanced demand forecasting and inventory optimization tools to reduce working capital days.",
+    "Automation of procurement workflows to streamline global sourcing and mitigate component lead-time risks."
+  ],
+  "technology_signals": [
+    "not_found"
+  ],
+  "competitors": [
+    "Dixon Technologies",
+    "Syrma SGS Technology",
+    "Kaynes Technology",
+    "Sanmina Corporation"
+  ],
+  "decision_makers": [],
+  "sources": [
+    {
+      "claim": "Avalon operates primary electronics design and manufacturing facilities in Chennai.",
+      "source_url": "https://www.avalontechnologies.com",
+      "source_type": "official website",
+      "retrieved_at": "2025-03-29",
+      "confidence": "high"
+    },
+    {
+      "claim": "Financial performance for FY24",
+      "source_url": "https://www.avalontechnologies.com/investors/",
+      "source_type": "public filing",
+      "retrieved_at": "2023-10-26",
+      "confidence": "high"
+    },
+    {
+      "claim": "Manufacturing capabilities and services",
+      "source_url": "https://www.avalontechnologies.com/services/",
+      "source_type": "official website",
+      "retrieved_at": "2023-10-26",
+      "confidence": "high"
+    }
+  ],
+  "lead_score": 76,
+  "lead_score_reasoning": "industry_fit=20, company_size_fit=5, location_fit=10, operational_fit=20, pain_point_evidence=12, decision_maker_access=0, data_confidence=9.",
+  "status": "researched",
+  "created_at": "2026-09-27T10:38:46.604849+00:00",
+  "updated_at": "2026-09-27T10:46:10.339126+00:00",
+  "research_history": [
+    {
+      "researched_at": "2026-09-27T10:46:05.692705+00:00",
+      "new_opportunities": [
+        "Implementation of advanced demand forecasting and inventory optimization tools to reduce working capital days.",
+        "Automation of procurement workflows to streamline global sourcing and mitigate component lead-time risks."
+      ],
+      "new_problems": [
+        "Potential margin pressure due to rising raw material costs and global semiconductor supply chain volatility.",
+        "High working capital cycle due to inventory holding requirements for long-lead-time electronic components."
+      ],
+      "source_count": 2
+    }
+  ],
+  "outreach_history": [],
+  "call_history": [],
+  "notes": [
+    "Avalon Technologies is a Chennai-headquartered EMS company delivering printed circuit board assembly, box-build integration, and wire harness manufacturing for industrial sectors."
+  ]
+}
