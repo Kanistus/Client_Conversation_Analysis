@@ -1,0 +1,26 @@
+{
+  "script_id": "SCRIPT-000001",
+  "company_id": "COMP-000003",
+  "contact_id": "k_ramasamy",
+  "opening": "Hello Mr. Ramasamy, good morning. This is [My Name] calling. I hope I'm not catching you at an incredibly busy moment in Coimbatore?",
+  "introduction": "I am a supply chain consultant, and I specialize in helping multi-division manufacturing companies streamline their procurement and protect their operating margins.",
+  "reason_for_contacting": "I've been following Roots Industries' impressive expansion from automotive horns into EV-compatible acoustic devices and precision engineering, exporting to over 80 countries.",
+  "company_specific_observation": "Managing distinct divisions—from high-pressure aluminium die castings to electronic horns—means your teams are navigating highly volatile raw material markets, particularly for copper, aluminium, and steel, across different production lines.",
+  "problem_hypothesis": "Typically, when founders oversee such diverse global operations, they find that fragmented procurement planning across divisions can lead to inventory imbalances and margin leakage when material prices spike.",
+  "discovery_questions": [
+    "How are your division heads currently coordinating their raw material forecasting to hedge against copper and aluminium price volatility?",
+    "With exports reaching over 80 countries, what is the biggest bottleneck your logistics team faces in maintaining real-time visibility for international OEM shipments?"
+  ],
+  "follow_up_questions": [
+    "If you could unify demand forecasting across both the automotive and industrial cleaning divisions, what impact would that have on your overall inventory holding costs?",
+    "How is the transition to EV-compatible components currently affecting your production scheduling and tooling setup times?"
+  ],
+  "value_proposition": "We help multi-division manufacturers integrate their supply chain planning and automate demand forecasting. This typically stabilizes operating margins against material volatility and reduces international shipping delays by up to 20% without disrupting your existing ERP setup.",
+  "objection_handling": [
+    "Objection: 'We already have robust ERP systems and ISO/IATF certifications handling our processes.' -> Response: 'That is exactly why I reached out, Mr. Ramasamy. Your IATF 16494 certification shows your commitment to quality. We don't replace your systems; we layer on top of them to automate cross-divisional forecasting, helping your procurement team act proactively rather than reactively to market spikes.'",
+    "Objection: 'I am the Chairman; you should speak to our operations or purchasing heads.' -> Response: 'I completely understand, and I certainly plan to. I wanted to share this with you first because protecting group-level operating margins is ultimately a strategic founder-level priority. Would you mind if I mentioned your name when I reach out to your operations head?'"
+  ],
+  "soft_cta": "I know you are incredibly busy, so I'm not asking for a long meeting. I was wondering if it would make sense to share a brief, 10-minute overview of how we've helped similar automotive component exporters protect their margins?",
+  "next_step_request": "Would you be open to a brief call next Thursday at 11:00 AM, or is there a specific member of your leadership team you would prefer I coordinate with?",
+  "created_at": "2026-09-27T10:57:17.874577+00:00"
+}
