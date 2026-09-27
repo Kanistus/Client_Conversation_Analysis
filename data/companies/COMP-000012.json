@@ -1,0 +1,58 @@
+{
+  "company_id": "COMP-000012",
+  "company_name": "Ace Designers Limited",
+  "legal_name": "",
+  "industry": "Machinery",
+  "sub_industry": "CNC Lathes and Machine Tools Manufacturing",
+  "company_type": "Medium-sized",
+  "company_size": "",
+  "size_confidence": "high",
+  "location": {
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "country": "India"
+  },
+  "website": "https://www.acedesigners.in/",
+  "linkedin_url": "https://www.linkedin.com/company/ace-designers-ltd/",
+  "products_services": [],
+  "business_model": "",
+  "manufacturing_operations": "",
+  "supply_chain_operations": "",
+  "warehouse_operations": "",
+  "procurement_operations": "",
+  "logistics_operations": "",
+  "estimated_employee_count": null,
+  "financial_information": {
+    "revenue": null,
+    "profit": null,
+    "financial_year": null,
+    "source": ""
+  },
+  "operational_signals": [],
+  "potential_problems": [],
+  "potential_process_improvement_opportunities": [],
+  "technology_signals": [],
+  "competitors": [],
+  "decision_makers": [],
+  "sources": [
+    {
+      "claim": "Ace Designers is a machine tool manufacturer headquartered in Bengaluru, Karnataka.",
+      "source_url": "https://www.acedesigners.in/",
+      "source_type": "official website",
+      "retrieved_at": "2026-03-29",
+      "confidence": "high"
+    }
+  ],
+  "lead_score": 38,
+  "lead_score_reasoning": "industry_fit=20, company_size_fit=5, location_fit=10, operational_fit=0, pain_point_evidence=0, decision_maker_access=0, data_confidence=3.",
+  "status": "new",
+  "created_at": "2026-09-27T15:24:10.691931+00:00",
+  "updated_at": "2026-09-27T15:24:53.009711+00:00",
+  "research_history": [],
+  "outreach_history": [],
+  "call_history": [],
+  "notes": [
+    "Bengaluru-based manufacturer of CNC turning centers and lathes supplying manufacturing and engineering sectors across India.",
+    "Research failed; saved discovery data only."
+  ]
+}
