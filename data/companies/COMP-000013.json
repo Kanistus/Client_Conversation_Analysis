@@ -1,0 +1,58 @@
+{
+  "company_id": "COMP-000013",
+  "company_name": "Hi-Tech Arai Private Limited",
+  "legal_name": "",
+  "industry": "Auto Components",
+  "sub_industry": "Oil Seals and Moulded Rubber Components",
+  "company_type": "Medium-sized",
+  "company_size": "",
+  "size_confidence": "high",
+  "location": {
+    "city": "Madurai",
+    "state": "Tamil Nadu",
+    "country": "India"
+  },
+  "website": "https://www.hitecharai.com/",
+  "linkedin_url": "https://www.linkedin.com/company/hi-tech-arai-private-limited/",
+  "products_services": [],
+  "business_model": "",
+  "manufacturing_operations": "",
+  "supply_chain_operations": "",
+  "warehouse_operations": "",
+  "procurement_operations": "",
+  "logistics_operations": "",
+  "estimated_employee_count": null,
+  "financial_information": {
+    "revenue": null,
+    "profit": null,
+    "financial_year": null,
+    "source": ""
+  },
+  "operational_signals": [],
+  "potential_problems": [],
+  "potential_process_improvement_opportunities": [],
+  "technology_signals": [],
+  "competitors": [],
+  "decision_makers": [],
+  "sources": [
+    {
+      "claim": "Hi-Tech Arai is an auto component manufacturer headquartered in Madurai, Tamil Nadu.",
+      "source_url": "https://www.hitecharai.com/",
+      "source_type": "official website",
+      "retrieved_at": "2026-03-29",
+      "confidence": "high"
+    }
+  ],
+  "lead_score": 35,
+  "lead_score_reasoning": "industry_fit=20, company_size_fit=5, location_fit=7, operational_fit=0, pain_point_evidence=0, decision_maker_access=0, data_confidence=3.",
+  "status": "new",
+  "created_at": "2026-09-27T15:24:10.691945+00:00",
+  "updated_at": "2026-09-27T15:25:12.136433+00:00",
+  "research_history": [],
+  "outreach_history": [],
+  "call_history": [],
+  "notes": [
+    "Tamil Nadu-based auto component producer manufacturing oil seals, reed valves, and precision rubber/plastic components for automotive OEMs.",
+    "Research failed; saved discovery data only."
+  ]
+}
