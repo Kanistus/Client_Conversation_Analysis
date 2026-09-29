@@ -1,0 +1,108 @@
+{
+  "company_id": "COMP-000021",
+  "company_name": "Raini Industries India Private Limited",
+  "legal_name": "",
+  "industry": "Metal fabricator",
+  "sub_industry": "",
+  "company_type": "MSME",
+  "company_size": "",
+  "size_confidence": "unknown",
+  "location": {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "country": "India"
+  },
+  "website": "https://www.rainiindustries.com/",
+  "linkedin_url": "https://www.linkedin.com/company/rainiindustries",
+  "business_address": "Shop No:6, Ekkattuthangal, Nehru Street, Sardhar Colony, Poomagal Nagar, Gandhi Nagar",
+  "public_business_phone": "+91 44 2225 0894",
+  "public_business_phones": [
+    "+91 4422250894",
+    "+91 9940012762",
+    "+91 9940138563",
+    "+91 9840183331",
+    "+91 9940166193",
+    "+91 9789074736",
+    "+91 9840797667"
+  ],
+  "public_business_email": "raini_industries@dataone.in",
+  "public_business_emails": [
+    "raini_industries@dataone.in",
+    "maryadmin@rainiindustries.com",
+    "factoryadmin@rainiindustries.com"
+  ],
+  "contact_page_url": "https://www.rainiindustries.com/contact",
+  "products_services": [],
+  "business_model": "",
+  "manufacturing_operations": "",
+  "supply_chain_operations": "",
+  "warehouse_operations": "",
+  "procurement_operations": "",
+  "logistics_operations": "",
+  "estimated_employee_count": null,
+  "financial_information": {
+    "revenue": null,
+    "profit": null,
+    "financial_year": null,
+    "source": ""
+  },
+  "operational_signals": [],
+  "potential_problems": [],
+  "root_cause_hypotheses": [],
+  "potential_process_improvement_opportunities": [],
+  "technology_signals": [],
+  "competitors": [],
+  "decision_makers": [
+    {
+      "contact_id": "",
+      "name": "Manivannan K",
+      "designation": "Production Supervisor",
+      "responsibilities": [],
+      "role_relevance": "Publicly listed Production Supervisor role; aligns with supply-chain/operations consulting.",
+      "company": "Raini Industries India Private Limited",
+      "company_id": "",
+      "linkedin_url": "http://www.linkedin.com/in/manivannan-k-411a51186",
+      "email": null,
+      "phone": null,
+      "source": "http://www.linkedin.com/in/manivannan-k-411a51186",
+      "confidence": "medium",
+      "created_at": "2026-09-29T15:59:10.106828+00:00",
+      "updated_at": "2026-09-29T15:59:10.106838+00:00"
+    }
+  ],
+  "sources": [
+    {
+      "claim": "Public Google Maps business listing for Raini Industries India Private Limited",
+      "source_url": "https://www.google.com/maps/search/?api=1&query=Raini%20Industries%20India%20Private%20Limited&query_place_id=ChIJMW9ufTlnUjoRo9h7lax63NU",
+      "source_type": "business directory",
+      "retrieved_at": "2026-09-29T15:59:10.105746+00:00",
+      "confidence": "high"
+    },
+    {
+      "claim": "Official LinkedIn page for Raini Industries India Private Limited",
+      "source_url": "https://www.linkedin.com/company/rainiindustries",
+      "source_type": "company LinkedIn",
+      "retrieved_at": "2026-09-29T15:59:10.106861+00:00",
+      "confidence": "high"
+    },
+    {
+      "claim": "Public company contact details listed on the official website",
+      "source_url": "https://www.rainiindustries.com/contact",
+      "source_type": "official website",
+      "retrieved_at": "2026-09-29T15:59:21.158676+00:00",
+      "confidence": "high"
+    }
+  ],
+  "lead_score": 31,
+  "lead_score_reasoning": "industry_fit=0, company_size_fit=8, location_fit=10, operational_fit=0, pain_point_evidence=0, decision_maker_access=8, financial_fit=0, data_confidence=5.",
+  "status": "new",
+  "created_at": "2026-09-29T15:59:10.105915+00:00",
+  "updated_at": "2026-09-29T15:59:29.759061+00:00",
+  "research_history": [],
+  "outreach_history": [],
+  "call_history": [],
+  "notes": [
+    "Discovered from a public Google Maps business listing via Apify.",
+    "Research failed; saved discovery data only."
+  ]
+}
